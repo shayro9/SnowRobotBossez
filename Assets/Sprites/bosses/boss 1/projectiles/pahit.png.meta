@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: ceb14a4d29a4cd14881aa4d53616072f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4011830961710158915
+    second: pahit_0
+  - first:
+      213: 1974336916775603900
+    second: pahit_1
+  - first:
+      213: -3392345555452840396
+    second: pahit_2
+  - first:
+      213: -4926194265476508269
+    second: pahit_3
+  - first:
+      213: 1390733255254092145
+    second: pahit_4
+  - first:
+      213: 3822897555813030029
+    second: pahit_5
+  - first:
+      213: -7406029321479543792
+    second: pahit_6
+  - first:
+      213: 2617104012998803560
+    second: pahit_7
+  - first:
+      213: -2577951475075545500
+    second: pahit_8
+  - first:
+      213: -2077146935382062446
+    second: pahit_9
+  - first:
+      213: 1752736980774177867
+    second: pahit_10
+  - first:
+      213: -7941141811470772928
+    second: pahit_11
+  - first:
+      213: 2089284801707819063
+    second: pahit_12
+  - first:
+      213: 3594152166830203381
+    second: pahit_13
+  - first:
+      213: -6760014282263102036
+    second: pahit_14
+  - first:
+      213: -842119607253842729
+    second: pahit_15
+  - first:
+      213: -3460984567946598048
+    second: pahit_16
+  - first:
+      213: -2239966785433383113
+    second: pahit_17
+  - first:
+      213: -2905264245288688366
+    second: pahit_18
+  - first:
+      213: 7165383964863572770
+    second: pahit_19
+  - first:
+      213: -7133974910656697593
+    second: pahit_20
+  - first:
+      213: 7954241453680805010
+    second: pahit_21
+  - first:
+      213: 3928519334962181693
+    second: pahit_22
+  - first:
+      213: -4142181699719863794
+    second: pahit_23
+  - first:
+      213: -4487658494901544177
+    second: pahit_24
+  - first:
+      213: 4014287879266022255
+    second: pahit_25
+  - first:
+      213: 1984980478211868512
+    second: pahit_26
+  - first:
+      213: -2528510878254629503
+    second: pahit_27
+  - first:
+      213: -2270045217846043636
+    second: pahit_28
+  - first:
+      213: 4139257535544292239
+    second: pahit_29
+  - first:
+      213: -433587824182723370
+    second: pahit_30
+  - first:
+      213: -3988555333345881172
+    second: pahit_31
+  - first:
+      213: -1295180837096742489
+    second: pahit_32
+  - first:
+      213: 6887028884693405540
+    second: pahit_33
+  - first:
+      213: -5892159991926936006
+    second: pahit_34
+  - first:
+      213: 7268754308319462258
+    second: pahit_35
+  - first:
+      213: 6169634408739443943
+    second: pahit_36
+  - first:
+      213: 7621697459545723796
+    second: pahit_37
+  - first:
+      213: 2730134220579746981
+    second: pahit_38
+  - first:
+      213: 4288255067812206342
+    second: pahit_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pahit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2a54fefc1358c0800000000000000
+      internalID: -4011830961710158915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe895f17f0466b10800000000000000
+      internalID: 1974336916775603900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436bbd3d0b7fbe0d0800000000000000
+      internalID: -3392345555452840396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d4b76a64a2abb0800000000000000
+      internalID: -4926194265476508269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792eb8f680ec4310800000000000000
+      internalID: 1390733255254092145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88d1fa8219ad0530800000000000000
+      internalID: 3822897555813030029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a519229f783990800000000000000
+      internalID: -7406029321479543792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600b0bdb32d15420800000000000000
+      internalID: 2617104012998803560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668defbac6493cd0800000000000000
+      internalID: -2577951475075545500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahit_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac2421edd7c23e0800000000000000
+      internalID: -2077146935382062446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
